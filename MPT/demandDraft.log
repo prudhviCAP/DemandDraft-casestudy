@@ -1,0 +1,10 @@
+2018-12-19 01:23:21,708 ERROR [root] - Insertion failed 
+2018-12-19 01:23:21,710 ERROR [root] - exception.DemandDraftException: Inserting donor details failed 
+2018-12-19 01:23:21,711 INFO [root] - 
+2018-12-19 01:24:00,467 ERROR [root] - Insertion failed 
+2018-12-19 01:24:00,467 INFO [root] - Inserting donor details failed 
+2018-12-19 01:26:02,388 ERROR [root] - Insertion failed 
+2018-12-19 01:26:02,390 ERROR [root] - exception.DemandDraftException: Inserting donor details failed 
+2018-12-19 01:26:02,391 INFO [root] - 
+2018-12-19 01:30:10,337 INFO [root] - Donor details added successfully:
+2018-12-19 01:30:10,343 INFO [root] - DemandDraft [customerName=Sushanth, customerPhoneNumber=9898987878, inFavorOf=Nithish, demandDraftAmount=20000.0, remarks=dowry]
